@@ -42,4 +42,5 @@ function mousePressed() {
   interactable.setFrame(0);
   // Play it again
   interactable.play();
+      sound.play();
 }
