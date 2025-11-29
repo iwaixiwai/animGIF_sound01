@@ -5,7 +5,7 @@ let bgAnim;
 function preload() {
   // Load them like normal images
   // The foreground gif file was exported with no looping
-  interactable = loadImage("踊る人形回転01stop.gif");
+  interactable = loadImage("dancingman01stop.gif");
   // The background gif was file exported with looping
 //  bgAnim = loadImage('bg-anim.gif');
     sound = loadSound('SNARE20_delay.mp3');
